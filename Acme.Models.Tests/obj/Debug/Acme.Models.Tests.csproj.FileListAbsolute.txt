@@ -1,0 +1,48 @@
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Acme.Models.Tests.dll
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Acme.Models.Tests.pdb
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Acme.Models.dll
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Castle.Core.dll
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\bin\Debug\FakeItEasy.dll
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\bin\Debug\nunit.framework.dll
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Acme.Models.pdb
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Castle.Core.xml
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\bin\Debug\FakeItEasy.xml
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\bin\Debug\nunit.framework.pdb
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\bin\Debug\nunit.framework.xml
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.csprojAssemblyReference.cache
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.csproj.CoreCompileInputs.cache
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.csproj.CopyComplete
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.dll
+C:\GitHub\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.pdb
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Acme.Models.Tests.dll
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Acme.Models.Tests.pdb
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Acme.Models.dll
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Castle.Core.dll
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\bin\Debug\nunit.framework.dll
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Acme.Models.pdb
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Castle.Core.xml
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\bin\Debug\nunit.framework.xml
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.csprojAssemblyReference.cache
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.csproj.CopyComplete
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.dll
+C:\Users\jack.ramsden\Storage\Interview test - AcmeUserManagement\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.pdb
+C:\Git\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Acme.Models.Tests.dll
+C:\Git\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Acme.Models.Tests.pdb
+C:\Git\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Acme.Models.dll
+C:\Git\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Castle.Core.dll
+C:\Git\AcmeUserManagement\Acme.Models.Tests\bin\Debug\FakeItEasy.dll
+C:\Git\AcmeUserManagement\Acme.Models.Tests\bin\Debug\nunit.framework.dll
+C:\Git\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Acme.Models.pdb
+C:\Git\AcmeUserManagement\Acme.Models.Tests\bin\Debug\Castle.Core.xml
+C:\Git\AcmeUserManagement\Acme.Models.Tests\bin\Debug\FakeItEasy.xml
+C:\Git\AcmeUserManagement\Acme.Models.Tests\bin\Debug\nunit.framework.pdb
+C:\Git\AcmeUserManagement\Acme.Models.Tests\bin\Debug\nunit.framework.xml
+C:\Git\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.csprojAssemblyReference.cache
+C:\Git\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.csproj.CoreCompileInputs.cache
+C:\Git\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.csproj.CopyComplete
+C:\Git\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.dll
+C:\Git\AcmeUserManagement\Acme.Models.Tests\obj\Debug\Acme.Models.Tests.pdb

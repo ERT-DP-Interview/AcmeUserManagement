@@ -1,0 +1,16 @@
+Acme.DataAccess/bin/
+Acme.DataAccess/obj/
+Acme.Forms.UI/bin/
+Acme.Forms.UI/obj/
+Acme.Models/bin/
+Acme.Models/obj/
+Acme.Services.Tests/bin/
+Acme.Services.Tests/obj/
+Acme.Services/bin/
+Acme.Services/obj/
+packages/
+.vs/AcmeUserManagement/v15/.suo
+.vs/AcmeUserManagement/v15/Server/sqlite3/storage.ide-shm
+.vs/AcmeUserManagement/v15/Server/sqlite3/storage.ide
+.vs/AcmeUserManagement/v15/Server/sqlite3/db.lock
+.vs/AcmeUserManagement/v15/Server/sqlite3/storage.ide-wal
